@@ -1,4 +1,4 @@
-T�m t?t n?i dung c?a bu?i 1:
-- ?i?m danh, gom nh�m v� gi?i thi?u c�c th�nh vi�n trong nh�m v� ??t m?t c�u h?i.( Nguy?n H?u Doanh tr�nh b�y)
-- Gi?ng vi�n gi?i thi?u v� ??a ra y�u c?u v? m�n h?c , gi?i ?�p c�c th?c m?c c?a sinh vi�n.
-- Tr�nh b�y � t??ng c?a nh�m v? m?t ?ng d?ng trong ng�nh Khoa h?c m�y t�nh. ( T� Vi?t Anh tr�nh b�y).
+Tóm tắt nội dung của buổi 1:
+- Điểm danh, gom nhóm và giới thiệu các thành viên trong nhóm và đặt một câu hỏi.( Nguyễn Hữu Doanh trình bày)
+- Giảng viên giới thiệu và đưa ra yêu cầu của môn học , giải đáp các thắc mắc của sinh viên.
+- Trình bày ý tưởng của nhóm và một ứng dụng trong ngành Khoa học máy tính. ( Tô Viết Anh trình bày).
