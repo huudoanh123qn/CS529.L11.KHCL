@@ -1,4 +1,4 @@
-# Tóm tắt nội dung của buổi 3:
+# Tóm tắt nội dung của buổi học 3:
 - Giới thiệu Research là gì?
 - Giới thiệu các vấn đề, bài toán phổ biến của Khoa học Máy tính.
 - Giới thiệu paper là gì? Làm sao để đánh giá độ uy tín của paper?
