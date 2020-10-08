@@ -1,0 +1,11 @@
+# Tóm tắt nội dung của buổi 3:
+- Giới thiệu Research là gì?
+- Giới thiệu các vấn đề, bài toán phổ biến của Khoa học Máy tính.
+- Giới thiệu paper là gì? Làm sao để đánh giá độ uy tín của paper?
+- Hướng dẫn cách tìm tài liệu/paper: Google Scholar, website các hội nghị của từng lĩnh vực khác nhau, paperwithcode,...
+- Giới thiệu quá trình nộp paper của một researcher:
+    - Nghiên cứu bài toán, đưa ra giải pháp và thực hiện giải pháp.
+    - Viết paper tổng hợp những gì mình đã làm.
+    - Chọn hội nghị để submit paper.
+    - Review đọc bản thảo.
+    - Sau khi được duyệt thì hội nghị sẽ publish paper.
